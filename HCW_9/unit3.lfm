@@ -1,0 +1,27 @@
+object Form3: TForm3
+  Left = 452
+  Height = 85
+  Top = 284
+  Width = 302
+  Caption = 'Ошибка'
+  ClientHeight = 85
+  ClientWidth = 302
+  Color = clRed
+  LCLVersion = '3.8.0.0'
+  object Label1: TLabel
+    Left = 72
+    Height = 15
+    Top = 32
+    Width = 159
+    Caption = 'Некоректно введены данные'
+  end
+  object Button1: TButton
+    Left = 216
+    Height = 27
+    Top = 56
+    Width = 77
+    Caption = 'Ок'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+end

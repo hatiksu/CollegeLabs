@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="24" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="timer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Timer"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="81" Y="16"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="10">
+      <Position>
+        <Filename Value="timer.pas"/>
+        <Caret Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="13" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="17" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="timer.pas"/>
+        <Caret Line="29" Column="41" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="timer.pas"/>
+        <Caret Line="69" Column="58" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="timer.pas"/>
+        <Caret Line="134" Column="5" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="timer.pas"/>
+        <Caret Line="58" Column="44" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="timer.pas"/>
+        <Caret Line="76" Column="58" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="timer.pas"/>
+        <Caret Line="110" Column="10" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="timer.pas"/>
+        <Caret Line="101" Column="3" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="timer.pas"/>
+        <Caret Line="16" Column="81"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <grid version="3">
+    <saveoptions create="False" position="False" content="True"/>
+    <content>
+      <cells cellcount="8">
+        <cell1 column="0" row="0" text="Марка"/>
+        <cell2 column="0" row="1" text="Lada"/>
+        <cell3 column="1" row="0" text="Год выпуска"/>
+        <cell4 column="1" row="1" text="2014"/>
+        <cell5 column="2" row="0" text="Дата продажи"/>
+        <cell6 column="2" row="1" text="Не продано"/>
+        <cell7 column="3" row="0" text="Продано (да\нет)"/>
+        <cell8 column="3" row="1" text="..."/>
+      </cells>
+    </content>
+  </grid>
+</CONFIG>
